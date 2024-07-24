@@ -1,4 +1,3 @@
-
 # SmartShell
 
 <p align="center"><img src="logo.svg" alt="SmartShell Logo" width="200" height="200"></p>
@@ -67,4 +66,3 @@ SmartShell is released under the [MIT License](LICENSE).
 <p align="center">
   Made with ❤️ by <a href="https://github.com/spragginsdesigns">spragginsdesigns</a>
 </p>
-```
