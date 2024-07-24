@@ -1,7 +1,26 @@
+
 # SmartShell
 
 <p align="center">
-  <img src="smartshell-logo.svg" alt="SmartShell Logo" width="200" height="200">
+  <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <rect width="200" height="200" rx="20" ry="20" fill="#1E1E1E"/>
+    <rect x="20" y="40" width="160" height="120" rx="10" ry="10" fill="#2D2D2D"/>
+    <rect x="30" y="50" width="140" height="10" rx="5" ry="5" fill="#3C3C3C"/>
+    <circle cx="40" cy="55" r="4" fill="#FF5F56"/>
+    <circle cx="55" cy="55" r="4" fill="#FFBD2E"/>
+    <circle cx="70" cy="55" r="4" fill="#27C93F"/>
+    <rect x="30" y="70" width="140" height="80" rx="10" ry="10" fill="#1E1E1E"/>
+    <polygon points="50,90 80,110 50,130" fill="#00D8FF"/>
+    <rect x="90" y="90" width="60" height="10" fill="#00D8FF"/>
+    <rect x="90" y="110" width="60" height="10" fill="#00D8FF"/>
+    <!-- AI Sprinkle Icon -->
+    <g transform="translate(150, 150)">
+      <circle cx="0" cy="0" r="10" fill="#FFD700" />
+      <circle cx="-5" cy="-5" r="3" fill="#FF5F56"/>
+      <circle cx="5" cy="-5" r="3" fill="#FFBD2E"/>
+      <circle cx="0" cy="5" r="3" fill="#27C93F"/>
+    </g>
+  </svg>
 </p>
 
 <p align="center">
@@ -20,7 +39,7 @@
 
 ## About SmartShell
 
-SmartShell is an intelligent Windows shell assistant built in Rust, designed to enhance your command-line experience on Windows 11 Pro. It provides smart suggestions for Windows shell prompts and other cool features, similar to GitHub Copilot CLI.
+SmartShell is an intelligent Windows shell assistant built in Rust, designed to enhance your command-line experience on Windows 11 Pro. It provides smart suggestions for Windows shell prompts and other cool features, similar to GitHub Copilot CLI. **Note: This project is in its early development stages.**
 
 ## Features
 
@@ -68,3 +87,6 @@ SmartShell is released under the [MIT License](LICENSE).
 <p align="center">
   Made with ❤️ by <a href="https://github.com/spragginsdesigns">spragginsdesigns</a>
 </p>
+```
+
+This README content now includes the SVG code directly within the HTML and mentions that the project is in its early development stages.
