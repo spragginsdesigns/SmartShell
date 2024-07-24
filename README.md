@@ -88,5 +88,3 @@ SmartShell is released under the [MIT License](LICENSE).
   Made with ❤️ by <a href="https://github.com/spragginsdesigns">spragginsdesigns</a>
 </p>
 ```
-
-This README content now includes the SVG code directly within the HTML and mentions that the project is in its early development stages.
